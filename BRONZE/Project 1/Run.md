@@ -1,4 +1,5 @@
 Cyber:
+====
 
 ![image](https://media.discordapp.net/attachments/678916771507339276/702120589199933469/cyber.jpg?width=1026&height=340)
 
@@ -8,7 +9,7 @@ Result:
 
 Dashe:
 
-I[image](https://media.discordapp.net/attachments/653087034012991528/702121304697995294/unknown.png?width=1026&height=349)
+![image](https://media.discordapp.net/attachments/653087034012991528/702121304697995294/unknown.png?width=1026&height=349)
 
 Result:
 
