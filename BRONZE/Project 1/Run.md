@@ -19,7 +19,7 @@ Result:
 NSB:
 ----
 
-![image](https://cdn.discordapp.com/attachments/702068843807506502/702071438898626600/unknown.png
+![image](https://cdn.discordapp.com/attachments/702068843807506502/702071438898626600/unknown.png)
 
 Result:
 
