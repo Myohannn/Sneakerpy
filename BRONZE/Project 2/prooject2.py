@@ -1,15 +1,3 @@
-'''
-2. 简单shopify 监控器
-
-- 支持如undefeated网站的单品尺码监控，即当监控的单品更新尺码时，发送提醒到自定义的webhook
-- 支持自定义webhook
-- 做好错误处理，需要能够长期运行
-- 附加题 实现undfeated的上新监控
-
-hint:
-- 对于一个单品 如 https://undefeated.com/collections/all/products/nike-x-undefeated-air-max-90-pacificblue-vividpurple 可以在后面加.json获取一个json的页面(shopify特性)
-- https://undefeated.com/products.json 可以看到一个shopify站的所有商品（某些站会关闭，但本project只要实现未关闭的站即可)
-'''
 import datetime
 import time
 
