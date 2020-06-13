@@ -1,7 +1,7 @@
 Cyber:
 ----
 
-![image](https://media.discordapp.net/attachments/678916771507339276/702120589199933469/cyber.jpg?width=1026&height=340)
+![image](https://cdn.discordapp.com/attachments/678916771507339276/721352598481010779/unknown.png)
 
 Result:
 
@@ -10,7 +10,7 @@ Result:
 Dashe:
 ----
 
-![image](https://media.discordapp.net/attachments/653087034012991528/702121304697995294/unknown.png?width=1026&height=349)
+![image](https://cdn.discordapp.com/attachments/678916771507339276/721352054794354829/unknown.png)
 
 Result:
 
