@@ -1,1 +1,8 @@
+简单的proxy筛选脚本
 
+- 通过对google的request测试来测试proxy连通性（ 如果你想支持别的网站，可以作为附加项）
+- 利用requests 模块实现
+- 每条proxy，最好测试多次取其平均值，因为网络有其不稳定性
+- 输入为一个proxy列表的txt
+- 输出为一个筛选过可以达到程序设置要求的proxy列表（延迟小于 xxx ms)
+- 在console输出每条proxy的延迟结果

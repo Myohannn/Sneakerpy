@@ -51,7 +51,7 @@ def sizes(id, size_name, stock, wbsiteurl):
 
 def send_webhook(id, product_name, size_name, url, stock, price, image_url, wbsiteurl):
     # lovely tester
-    wb_link = "https://discordapp.com/api/webhooks/717620825687195698/8tn_uiJJbyIl7X9pGJWQmjiuITQ7wC_FYkM6f5zxTc3uZQJaziw00rKapyQ9fISEERy3"
+    wb_link = "你的webhook"
     webhook = Webhook.from_url(wb_link, adapter=RequestsWebhookAdapter())
 
     username = "Myohan"

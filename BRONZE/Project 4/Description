@@ -1,1 +1,6 @@
+可以自动gen resi proxy 并且分给不同bot的proxy脚本
 
+- 以smart为例，如果你用过oxy geo 或者netnut，请自行扩展，不要求支持多家proxy，但能支持是附加分
+- 自行获取smart的地区列表
+- 输入为 你想要的地区（可能是一个地区列表），你想要使用的bot(一个bot列表), 以及每个bot想要多少条proxy
+- 输出直接是当前目录下的文件，为 bot名字开头的txt文件，分别代表给每个bot生成的 proxy 列表
