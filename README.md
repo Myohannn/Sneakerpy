@@ -1,2 +1,2 @@
-# 学习Sneakers相关python知识
+# Sneakers in python
  
